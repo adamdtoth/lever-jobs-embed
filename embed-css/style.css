@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
 #lever-jobs-container {
   display: block;
   visibility: visible;
@@ -48,10 +50,13 @@
 }
 #lever-jobs-container .lever-job-title {
   display: inline-block;
+  font-size: 1.15rem
   color: #282929;
   border-bottom:2px solid #88C848;
   text-decoration: none;
   margin-bottom: 1rem;
+  font-family: 'Inter', sans-serif;
+  font-weight:500;
 }
 #lever-jobs-container .lever-job-title:hover {
   color: #057579;
