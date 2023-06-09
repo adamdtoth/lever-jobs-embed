@@ -43,6 +43,7 @@
 #lever-jobs-container .lever-team-title {
   font-size: 1.25em;
   margin-bottom: 0.5em;
+  display:none;
 }
 #lever-jobs-container .lever-department-title {
   font-size: 1.5em;
