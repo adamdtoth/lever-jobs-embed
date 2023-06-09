@@ -51,7 +51,7 @@
 }
 #lever-jobs-container .lever-job-title {
   display: inline-block;
-  font-size: 1.15rem
+  font-size: 1.15rem;
   color: #282929;
   border-bottom:2px solid #88C848;
   text-decoration: none;
